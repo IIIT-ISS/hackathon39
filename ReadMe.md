@@ -112,8 +112,7 @@ The templates folder contains the following HTML templates:
 
 ## Running the Website
 
-To run the website, you need to have Python and Flask installed on your computer. Once you have installed these dependencies, you can run the website by running the app.py file. The website will then be accessible at <http://localhost:5000>. Or type <http://127.0.0.1:5000>
-Credits
+To run the website, you need to have Python and Flask installed on your computer. Once you have installed these dependencies, you can run the website by running the app.py file. The website will then be accessible at <http://localhost:5000>. Or type <http://127.0.0.1:5000>.
 
 This website was created by Abhiram Tilak, Hari Chandana, Chaitrika. If you have any questions or feedback, please feel free to contact me us abhiram.potula@research.iiit.ac.in, chaitrika.m@students.iiit.ac.in and venishetty.hari@students.iiit.ac.in.
 
