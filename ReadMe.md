@@ -122,3 +122,5 @@ This website was created by Abhiram Tilak, Hari Chandana, Chaitrika. If you have
 - This website is very minimalist and code base is easy
 - There are multiple instances of having boiler plate code though because of time constraints.
 - The databases are mostly empty by default, you generate users by adding values and inputting forms, except the menu.
+- A lot of our styles and fonts have been inspired by our project websites, because we had them available locally and was more accessible.
+
