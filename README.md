@@ -1,6 +1,6 @@
 # Delivery Website
 
-This repository contains the code for a delivery website. The website allows customers to browse a menu, place orders, and pay online. The website also has a private section where staff can view and manage orders.
+This repository contains the code for a delivery website called IIITeatz. The website allows customers to browse a menu, place orders, and pay online. The website also has a private section where staff can view and manage orders.
 Files
 
 ## The repository contains the following files:
@@ -92,7 +92,7 @@ Files
     └── private.html
 ```
 
-## Static Files
+### Static Files
 
 The static folder contains the following subfolders:
 
@@ -100,7 +100,7 @@ The static folder contains the following subfolders:
 - fonts: This folder contains font files used by the website.
 - images: This folder contains image files used by the website.
 
-## Templates
+### Templates
 
 The templates folder contains the following HTML templates:
 
@@ -110,16 +110,32 @@ The templates folder contains the following HTML templates:
 - orders.html: This template is used for the orders page of the website, where customers can view their orders and their status.
 - private.html: This template is the base template for the private section of the website.
 
-## Running the Website
+## Frameworks and packages used:
+- We have used some default python packages like datetimes and for easier calculations.
+- We have used sqlite3 for our dbms.
+- We have used flask, typically the main modules like, render_templates, redirect, request and others like session, flash, url_for have also been used.
+
+## Instructions on Running the Website
 
 To run the website, you need to have Python and Flask installed on your computer. Once you have installed these dependencies, you can run the website by running the app.py file. The website will then be accessible at <http://localhost:5000>. Or type <http://127.0.0.1:5000>.
 
 This website was created by Abhiram Tilak, Hari Chandana, Chaitrika. If you have any questions or feedback, please feel free to contact me us abhiram.potula@research.iiit.ac.in, chaitrika.m@students.iiit.ac.in and venishetty.hari@students.iiit.ac.in.
 
-## More About Website
+## More About Website and features implemented:
 
 - This website is very minimalist and code base is easy
 - There are multiple instances of having boiler plate code though because of time constraints.
 - The databases are mostly empty by default, you generate users by adding values and inputting forms, except the menu.
 - A lot of our styles and fonts have been inspired by our project websites, because we had them available locally and was more accessible.
 
+## A note about Contribution:
+
+- The project has had contribution from all 3 people, Abhiram managed the backend which took the longest.
+- The front end was assembled by Chaitrika and Chandana, and Chaitrika helped in finding metadata for the website
+- The website was finished well on time ( 4 hrs before the submission, without extension ) and didn't have much trouble in time managemenet.
+
+## Closing Note
+
+It has been a wonderful experience working on this project, some of us were sleep deprived, stressed or at some point even heavily frustrated and has been a rollercoaster working on this.
+
+We have learnt a lot about not only website design, but also about critical thinking skills and our quick learning or grasping capabilities were tested.
