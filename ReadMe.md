@@ -15,7 +15,7 @@ Files
 
 ### CodeBase Tree
 
-`
+```
 .
 ├── ReadMe.md
 ├── app.py
@@ -90,8 +90,7 @@ Files
     ├── menu.html
     ├── orders.html
     └── private.html
-
-`
+```
 
 ## Static Files
 
