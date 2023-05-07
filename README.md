@@ -5,7 +5,7 @@ Files
 
 ## The repository contains the following files:
 
-- ReadMe.md: This file contains an overview of the repository.
+- README.md: This file contains an overview of the repository.
 - app.py: This file contains the Python code for the website.
 - favicon.ico: This file is the favicon for the website.
 - orders.db: This file is a SQLite database that stores orders.
@@ -17,7 +17,7 @@ Files
 
 ```
 .
-├── ReadMe.md
+├── README.md
 ├── app.py
 ├── favicon.ico
 ├── orders.db
