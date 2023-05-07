@@ -126,7 +126,10 @@ This website was created by Abhiram Tilak, Hari Chandana, Chaitrika. If you have
 - This website is very minimalist and code base is easy
 - There are multiple instances of having boiler plate code though because of time constraints.
 - The databases are mostly empty by default, you generate users by adding values and inputting forms, except the menu.
-- A lot of our styles and fonts have been inspired by our project websites, because we had them available locally and was more accessible.
+- A lot of our styles and fonts have been inspired by our project websites, because we had them available locally and was more accessible.'
+- We decided to make a login/signup page even though it didn't match our initial ideas and requirements.
+- We made a protected private website which needs sign in to view the contents.
+- We also implemented adding items to the menu when time was sufficient, along with images attached!
 
 ## A note about Contribution:
 
